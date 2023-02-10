@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1,KBS 1 ¶óµğ¿À (97.3)
+#EXTINF:-1,KBS 1 ë¼ë””ì˜¤ (97.3)
 http://serpent0.duckdns.org:8088/kbs1radio.pls
-#EXTINF:-1,KBS 2 ¶óµğ¿À (106.1)
+#EXTINF:-1,KBS 2 ë¼ë””ì˜¤ (106.1)
 http://serpent0.duckdns.org:8088/kbs2radio.pls
-#EXTINF:-1,KBS Äğ FM (89.1)
+#EXTINF:-1,KBS ì¿¨ FM (89.1)
 http://serpent0.duckdns.org:8088/kbs2fm.pls
-#EXTINF:-1,KBS Å¬·¡½Ä FM (93.1)
+#EXTINF:-1,KBS í´ë˜ì‹ FM (93.1)
 http://serpent0.duckdns.org:8088/kbsfm.pls
-#EXTINF:-1,MBC Ç¥ÁØ FM (95.9)
+#EXTINF:-1,MBC í‘œì¤€ FM (95.9)
 http://serpent0.duckdns.org:8088/mbcsfm.pls
 #EXTINF:-1,MBC FM4U (91.9)
 http://serpent0.duckdns.org:8088/mbcfm.pls
-#EXTINF:-1,SBS ÆÄ¿ö FM (107.7)
+#EXTINF:-1,SBS íŒŒì›Œ FM (107.7)
 http://serpent0.duckdns.org:8088/sbsfm.pls
-#EXTINF:-1,SBS ·¯ºê FM (103.5)
+#EXTINF:-1,SBS ëŸ¬ë¸Œ FM (103.5)
 http://serpent0.duckdns.org:8088/sbs2fm.pls
 #EXTINF:-1,TBS FM (95.1)
 http://tbs.hscdn.com/tbsradio/fm/playlist.m3u8
 #EXTINF:-1,TBS eFM (101.3)
 http://tbs.hscdn.com/tbsradio/efm/playlist.m3u8
-#EXTINF:-1,CBS Ç¥ÁØ FM (98.1)
+#EXTINF:-1,CBS í‘œì¤€ FM (98.1)
 http://aac.cbs.co.kr/cbs981/cbs981.stream/playlist.m3u8
-#EXTINF:-1,CBS À½¾Ç FM (93.9)
+#EXTINF:-1,CBS ìŒì•… FM (93.9)
 http://aac.cbs.co.kr/cbs939/cbs939.stream/playlist.m3u8
 #EXTINF:-1,CBS JOY4U
 http://aac.cbs.co.kr/cbscmc/cbscmc_96k.stream/playlist.m3u8
 #EXTINF:-1,EBS FM (104.5)
 http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8
-#EXTINF:-1,EBS ¿Ü±¹¾î1
+#EXTINF:-1,EBS ì™¸êµ­ì–´1
 http://new_iradio.ebs.co.kr/iradio/iradiolive_m4a/playlist.m3u8
-#EXTINF:-1,EBS ¿Ü±¹¾î2
+#EXTINF:-1,EBS ì™¸êµ­ì–´2
 http://bandibook.ebs.co.kr/bandibook/live_m4a/playlist.m3u8
-#EXTINF:-1,EBS Ã¥ ÀĞ¾îÁÖ´Â ¶óµğ¿À
+#EXTINF:-1,EBS ì±… ì½ì–´ì£¼ëŠ” ë¼ë””ì˜¤
 http://fmbook.ebs.co.kr/fmbook/live_m4a/playlist.m3u8
-#EXTINF:-1,±¹¾Ç¹æ¼Û (99.1)
+#EXTINF:-1,êµ­ì•…ë°©ì†¡ (99.1)
 http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
-#EXTINF:-1,±Øµ¿¹æ¼Û (106.9)
+#EXTINF:-1,ê·¹ë™ë°©ì†¡ (106.9)
 https://mlive2.febc.net/live/seoulam/playlist.m3u8
